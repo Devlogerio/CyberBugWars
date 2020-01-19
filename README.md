@@ -5,6 +5,7 @@ Playable: https://antclone.herokuapp.com/
 
 ## Game is made for the 2020 WOWIE Game Jam : https://itch.io/jam/wowie-jam-2
 Made in 3 days.
+GAME HAS LOTS OF BUGS BELIEVE ME :D
 
 ## About the making
 This game is made using P5js WEBGL canvas, everything about the drawing is happening on the client side, all the logic, movement and collisions are coded on the server side, so no cheating possible, all the data is transfered using socket.io connection (if you want to use ws socket, so you have to stringify the objects frist before sending).
