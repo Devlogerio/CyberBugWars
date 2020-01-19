@@ -15,8 +15,9 @@ The design is all done by Html5 and inline css, because its made in 3 days so co
 ## How to run:
 1) Install nodejs
 2) Install libraries (express, socket.io, victorjs)
-3) Run the server using (node server/app.js) in the terminal
-4) Open the page on localhost://port (the port is 2000)
+3) Type (npm install) in the terminal
+4) Run the server using (node server/app.js) in the terminal
+5) Open the page on localhost://port (the port is 2000)
 
 ## Credits:
 Music: https://freesound.org/people/dAmbient/
