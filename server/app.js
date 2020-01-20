@@ -247,7 +247,7 @@ class Player extends Entity {
         for(var i in players) {
             if(players[i].id !== this.id) {
                 var otherPlayer = players[i];
-                if(this.location.distance(otherPlayer.location) < this.r + otherPlayer.r) {
+                if(this.location.distance(otherPlayer.location) < this.r + otherPlayer.r && otherPlayer.attachedId !== this.id) {
                     var force = this.location.clone();
                     force.subtract(otherPlayer.location);
                     this.applyForce(force);
