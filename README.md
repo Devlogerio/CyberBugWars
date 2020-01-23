@@ -25,6 +25,6 @@ The design is all done by Html5 and inline css, because its made in 3 days so co
 Music: https://freesound.org/people/dAmbient/
 
 ## Contact:
-Mail: devloger.io@gmail.com
+Made by: Cena Abachi --- 
+Mail: devloger.io@gmail.com --- 
 Phone: +98 912 857 3237
-My name: Cena Abachi
