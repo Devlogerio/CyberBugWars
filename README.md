@@ -24,6 +24,9 @@ The design is all done by Html5 and inline css, because its made in 3 days so co
 ## Credits:
 Music: https://freesound.org/people/dAmbient/
 
+## Reason of being open source
+Github private repository is forbidden in my country so I decided to make all of my games open source for public
+
 ## Contact:
 Made by: Cena Abachi --- 
 Mail: devloger.io@gmail.com --- 
