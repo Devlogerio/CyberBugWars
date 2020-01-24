@@ -11,8 +11,13 @@ GAME HAS LOTS OF BUGS BELIEVE ME :D
 This game is made using P5js WEBGL canvas, everything about the drawing is happening on the client side, all the logic, movement and collisions are coded on the server side, so no cheating possible, all the data is transfered using socket.io connection (if you want to use ws socket, so you have to stringify the objects frist before sending).
 The design is all done by Html5 and inline css, because its made in 3 days so couldnt put more time.
 
-## More games like this:
+## More of my games like this:
 #http://pury.space
+#http://ufowars.space
+#http://sperms.space
+#http://kalamebaz.space
+#http://cyberbugs.space
+#http://aliens.website
 
 ## How to run:
 1) Install nodejs
