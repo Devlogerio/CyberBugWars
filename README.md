@@ -13,11 +13,11 @@ The design is all done by Html5 and inline css, because its made in 3 days so co
 
 ## More of my games like this:
 #http://pury.space
-#http://ufowars.space
-#http://sperms.space
-#http://kalamebaz.space
-#http://cyberbugs.space
-#http://aliens.website
+#https://lastwar.herokuapp.com/
+#https://sperms.herokuapp.com/
+#https://kalamebazspace.herokuapp.com/
+#https://antclone.herokuapp.com/
+#https://ufowarspace.herokuapp.com/
 
 ## How to run:
 1) Install nodejs
