@@ -4,7 +4,7 @@
   "description": "A game about ant war",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongojs": "^3.1.0",
     "socket.io": "^2.3.0",
     "victor": "^1.1.0"
