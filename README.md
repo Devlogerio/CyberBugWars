@@ -12,12 +12,7 @@ This game is made using P5js WEBGL canvas, everything about the drawing is happe
 The design is all done by Html5 and inline css, because its made in 3 days so couldnt put more time.
 
 ## More of my games like this:
-#http://pury.space
-#https://lastwar.herokuapp.com/
-#https://sperms.herokuapp.com/
-#https://kalamebazspace.herokuapp.com/
-#https://antclone.herokuapp.com/
-#https://ufowarspace.herokuapp.com/
+https://github.com/Devlogerio?tab=repositories
 
 ## How to run:
 1) Install nodejs
