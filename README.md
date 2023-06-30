@@ -1,7 +1,7 @@
 # CyberBugWars
 A multiplayer .io online game made by Html5 p5js nodejs and socket.io (no game engine is used).
 In this game you have to collect as much as bugs to your colony to win the game before others.
-Playable: https://antclone.herokuapp.com/
+Playable: [https://antclone.herokuapp.com/](https://itch.io/jam/wowie-jam-2)
 
 ## Game is made for the 2020 WOWIE Game Jam : https://itch.io/jam/wowie-jam-2
 Made in 3 days.
