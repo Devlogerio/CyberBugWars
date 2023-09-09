@@ -1,4 +1,4 @@
-Play now: [(https://cyberbugwars-b80607347037.herokuapp.com/)]
+Play now: https://cyberbugwars-b80607347037.herokuapp.com/
 
 # CyberBugWars
 A multiplayer .io online game made by HTML5 p5js Nodejs and socket.io (no game engine is used).
