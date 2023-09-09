@@ -1,3 +1,5 @@
+Playable at: [https://dashboard.heroku.com/apps/sperms](https://dashboard.heroku.com/apps/cyberbugwars)
+
 # CyberBugWars
 A multiplayer .io online game made by HTML5 p5js Nodejs and socket.io (no game engine is used).
 In this game, you have to collect as much as bugs to your colony to win the game before others.
