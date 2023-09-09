@@ -1,4 +1,4 @@
-Playable at: [https://dashboard.heroku.com/apps/sperms](https://dashboard.heroku.com/apps/cyberbugwars)
+Play now: [[https://dashboard.heroku.com/apps/sperms](https://dashboard.heroku.com/apps/cyberbugwars)](https://cyberbugwars-b80607347037.herokuapp.com/)
 
 # CyberBugWars
 A multiplayer .io online game made by HTML5 p5js Nodejs and socket.io (no game engine is used).
